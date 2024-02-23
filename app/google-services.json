@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69643476764",
+    "project_id": "basededatos-9332c",
+    "storage_bucket": "basededatos-9332c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69643476764:android:5cab738b882da21d02e4d9",
+        "android_client_info": {
+          "package_name": "com.example.crm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIMQpb12xeyRnk0F6TZrYxO6MUZXFK9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

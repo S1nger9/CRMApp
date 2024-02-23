@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRM</string>
+    <string name="home">Home</string>
+    <string name="feed">Feed</string>
+    <string name="customers">Customers</string>
+    <string name="sales">Sales</string>
+
+</resources>
