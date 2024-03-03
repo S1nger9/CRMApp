@@ -1,0 +1,14 @@
+Aplicación CRM
+
+
+La aplicación CRM desarrollada facilita la gestión integral de ventas y relaciones con clientes para empresas, empleando 
+Kotlin para la programación y Firebase como plataforma de backend. Esta solución permite un manejo eficiente de la información y operaciones comerciales, asegurando una interacción fluida y segura con la base de datos de clientes.
+
+
+
+Instrucciones:
+
+Abre Git bash y clona el repositorio:
+git clone https://github.com/S1nger9/CRMApp
+
+Desde el IDE Android Studio abres el proyecto.
